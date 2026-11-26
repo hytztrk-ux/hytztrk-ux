@@ -3,8 +3,6 @@
 </p>
 
 <p align="center">
-  <b><a href="#english">English</a></b> · <b><a href="#türkçe">Türkçe</a></b>
-  &nbsp;|&nbsp;
   <a href="https://nexnexus.com">nexnexus.com</a> ·
   <a href="https://www.blackflagbytes.com">blackflagbytes.com</a> ·
   <a href="https://www.linkedin.com/in/hytztrk">LinkedIn</a>
@@ -16,7 +14,9 @@
   <a href="https://github.com/hytztrk-ux/neatly"><img src="assets/card-neatly.svg" alt="neatly: rule-based file organizer. Preview first, undo anything." width="32%"></a>
 </p>
 
-## English
+<details open name="lang">
+<summary><b>&nbsp;English&nbsp;</b></summary>
+<br>
 
 I run engineering at **[NEXNEXUS](https://nexnexus.com)**, where we build enterprise software, custom ERP
 solutions and the integrations around them. At **[BlackFlagBytes](https://www.blackflagbytes.com)** I design
@@ -48,7 +48,11 @@ running image, chat and speech models locally.
 
 Off the keyboard: collecting and playing electric guitars.
 
-## Türkçe
+</details>
+
+<details name="lang">
+<summary><b>&nbsp;Türkçe&nbsp;</b></summary>
+<br>
 
 **[NEXNEXUS](https://nexnexus.com)**'ta mühendisliği yönetiyorum; kurumsal yazılım, özel ERP çözümleri ve
 bunları birbirine bağlayan entegrasyonlar geliştiriyoruz. **[BlackFlagBytes](https://www.blackflagbytes.com)**'ta
@@ -79,6 +83,8 @@ modellerini yerelde çalıştıran taşınabilir bir stüdyo.
 - **Yerel yapay zekâ.** Kendi donanımınızda çalışan modeller ve araçlar.
 
 Klavye başında değilken: elektro gitar koleksiyonu ve müzik.
+
+</details>
 
 ---
 
