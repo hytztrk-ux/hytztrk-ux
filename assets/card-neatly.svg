@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="210" viewBox="0 0 400 210" role="img" aria-label="neatly: Rule-based file organizer. Preview first, undo anything.">
+  <rect x="1" y="1" width="398" height="208" rx="16" fill="#172838" stroke="#34526a" stroke-width="2"/>
+  <g transform="translate(28 26)"><rect x="0" y="2" width="52" height="14" rx="4" fill="#e8b04a"/><rect x="0" y="21" width="52" height="14" rx="4" fill="#5fb8a8"/><rect x="0" y="40" width="52" height="14" rx="4" fill="#d97a6c"/></g>
+  <text x="28" y="118" font-family="-apple-system, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="34" font-weight="700" fill="#f3f1ea" letter-spacing="-0.6">neatly</text>
+  <text x="28" y="146" font-family="-apple-system, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16" fill="#b9c8d3">Rule-based file organizer.</text>
+  <text x="28" y="167" font-family="-apple-system, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16" fill="#b9c8d3">Preview first, undo anything.</text>
+  <text x="28" y="192" font-family="-apple-system, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="600" fill="#b9c8d3" opacity="0.75" letter-spacing="1.4">RUST · CLI + DESKTOP APP · MIT</text>
+</svg>

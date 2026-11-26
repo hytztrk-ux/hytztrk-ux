@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="210" viewBox="0 0 400 210" role="img" aria-label="leafcut: Offline PDF toolkit. Merge, split, rotate, compress.">
+  <rect x="1" y="1" width="398" height="208" rx="16" fill="#17493a" stroke="#2c7257" stroke-width="2"/>
+  <g transform="translate(28 26)"><path d="M6 0 H30 L44 14 V52 A3 3 0 0 1 41 55 H6 A3 3 0 0 1 3 52 V3 A3 3 0 0 1 6 0 Z" fill="#f4f1e8"/><path d="M11 27 C19 18 33 19 37 28 C30 33 20 36 11 27 Z" fill="#3fa36f"/><rect x="11" y="41" width="25" height="4" rx="2" fill="#9fb8a6"/></g>
+  <text x="28" y="118" font-family="-apple-system, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="34" font-weight="700" fill="#f4f1e8" letter-spacing="-0.6">leafcut</text>
+  <text x="28" y="146" font-family="-apple-system, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16" fill="#c9e3d2">Offline PDF toolkit.</text>
+  <text x="28" y="167" font-family="-apple-system, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16" fill="#c9e3d2">Merge, split, rotate, compress.</text>
+  <text x="28" y="192" font-family="-apple-system, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="600" fill="#c9e3d2" opacity="0.75" letter-spacing="1.4">RUST · CLI + DESKTOP APP · MIT</text>
+</svg>

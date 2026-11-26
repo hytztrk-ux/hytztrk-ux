@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="t d">
+  <title id="t">Hayati Öztürk</title>
+  <desc id="d">Hayati Öztürk. Co-Founder and CTO at NEXNEXUS, game designer at BlackFlagBytes. Enterprise systems, cross-platform tools and games.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0e131a"/>
+      <stop offset="1" stop-color="#172230"/>
+    </linearGradient>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.3" fill="#6f8296" opacity="0.28"/>
+    </pattern>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="1"/>
+    </linearGradient>
+    <mask id="m"><rect x="640" y="0" width="560" height="300" fill="url(#fade)"/></mask>
+  </defs>
+  <rect x="1" y="1" width="1198" height="298" rx="22" fill="url(#bg)" stroke="#2a3644" stroke-width="2"/>
+  <rect x="640" y="14" width="546" height="272" fill="url(#dots)" mask="url(#m)"/>
+
+  <rect x="72" y="74" width="44" height="5" rx="2.5" fill="#3ccf7a"/>
+  <text x="72" y="112" font-family="-apple-system, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#8fa6b8" textLength="720" lengthAdjust="spacing">CO-FOUNDER &amp; CTO, NEXNEXUS  ·  GAME DESIGNER, BLACKFLAGBYTES</text>
+  <text x="68" y="186" font-family="-apple-system, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="74" font-weight="700" fill="#f3f1ea" letter-spacing="-1.5">Hayati Öztürk</text>
+  <text x="72" y="232" font-family="-apple-system, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="24" fill="#b9c8d3">Enterprise systems, cross-platform tools and games.</text>
+  <text x="72" y="264" font-family="-apple-system, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="24" fill="#8fa6b8">Software that stays small, fast and on your own machine.</text>
+
+  <!-- three tiles: the open-source tools -->
+  <g transform="translate(884 74) scale(0.9)">
+    <path d="M88 44 H112 M200 132 H224" stroke="#3a4a5c" stroke-width="3" stroke-linecap="round" stroke-dasharray="1 8" transform="translate(0 0)"/>
+    <g>
+      <rect width="88" height="88" rx="18" fill="#1d5a43"/>
+      <path d="M28 18 H50 L62 30 V68 A3 3 0 0 1 59 71 H28 A3 3 0 0 1 25 68 V21 A3 3 0 0 1 28 18 Z" fill="#f4f1e8"/>
+      <path d="M32 44 C39 36 51 37 55 45 C49 50 40 52 32 44 Z" fill="#3fa36f"/>
+      <rect x="32" y="57" width="23" height="4" rx="2" fill="#9fb8a6"/>
+    </g>
+    <g transform="translate(112 44)">
+      <rect width="88" height="88" rx="18" fill="#11161d" stroke="#2f3a47" stroke-width="2"/>
+      <circle cx="44" cy="44" r="27" fill="#1f9d55"/>
+      <path d="M27 46h10l3.5-10 7 20 3.5-10h11" fill="none" stroke="#fff" stroke-width="4.2" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+    <g transform="translate(224 88)">
+      <rect width="88" height="88" rx="18" fill="#1d3240" stroke="#34526a" stroke-width="2"/>
+      <rect x="22" y="22" width="44" height="12" rx="4" fill="#e8b04a"/>
+      <rect x="22" y="38" width="44" height="12" rx="4" fill="#5fb8a8"/>
+      <rect x="22" y="54" width="44" height="12" rx="4" fill="#d97a6c"/>
+    </g>
+  </g>
+</svg>
