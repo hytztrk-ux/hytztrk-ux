@@ -25,6 +25,15 @@ games. In between, I write small tools I wanted to exist and publish them here.
 The common thread is a preference for software that is light, runs on one codebase across platforms, and
 does not need a server or an account to be useful.
 
+### Now building: ORENA
+
+> **An AI-native ERP, written from scratch.**
+
+Most business software had AI added to it afterwards. ORENA starts from it. We are rethinking how a company
+runs its day, from the first screen to the last report, and building it in-house at NEXNEXUS.
+
+The details stay under wraps until it is ready. It is the thing I am most impatient to show.
+
 ### Open source
 
 | | What it is | Why it exists |

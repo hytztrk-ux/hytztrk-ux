@@ -25,6 +25,15 @@ oyun tasarlıyorum. Arada, var olmasını istediğim küçük araçları yazıp 
 Hepsinin ortak noktası aynı tercih: hafif, tek kod tabanıyla her platformda çalışan ve işe yaraması için
 sunucu ya da hesap gerektirmeyen yazılım.
 
+### Şu an üzerinde çalıştığımız: ORENA
+
+> **Sıfırdan yazılan, yapay zekâ temelli bir ERP.**
+
+Kurumsal yazılımların çoğuna yapay zekâ sonradan eklendi. ORENA oradan başlıyor. Bir şirketin gününü nasıl
+yönettiğini ilk ekrandan son rapora kadar yeniden düşünüyor ve NEXNEXUS'ta kendi ekibimizle geliştiriyoruz.
+
+Ayrıntılar hazır olana kadar bizde kalıyor. Göstermek için en çok sabırsızlandığım iş bu.
+
 ### Açık kaynak
 
 | | Ne yapar | Neden var |
