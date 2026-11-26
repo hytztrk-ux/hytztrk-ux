@@ -18,8 +18,8 @@
   <a href="https://github.com/hytztrk-ux/neatly"><img src="assets/card-neatly.svg" alt="neatly: rule-based file organizer. Preview first, undo anything." width="32%"></a>
 </p>
 
-I run engineering at **[NEXNEXUS](https://nexnexus.com)**, where we build enterprise software, custom ERP
-solutions and the integrations around them. At **[BlackFlagBytes](https://www.blackflagbytes.com)** I design
+I run engineering at **[NEXNEXUS](https://nexnexus.com)**, where we build enterprise software,
+including our own ERP platform, and the integrations around it. At **[BlackFlagBytes](https://www.blackflagbytes.com)** I design
 games. In between, I write small tools I wanted to exist and publish them here.
 
 The common thread is a preference for software that is light, runs on one codebase across platforms, and
@@ -41,7 +41,7 @@ running image, chat and speech models locally.
 
 ### Day to day
 
-- **Enterprise systems.** ERP architecture and customisation on Canias ERP and TROIA, backend services, and the REST and SOAP integrations that connect them to everything else.
+- **Enterprise systems.** An ERP platform we are building in-house, backend services, and the REST and SOAP integrations that connect them to everything else. Before that I spent years working with Canias ERP and TROIA.
 - **Cross-platform products.** Desktop and server software from a single codebase, mostly with Go, Rust, Tauri 2 and PostgreSQL.
 - **Games.** Design and tooling at BlackFlagBytes.
 - **Local AI.** Models and tooling that run on your own hardware.
@@ -51,10 +51,9 @@ Off the keyboard: collecting and playing electric guitars.
 ---
 
 <table>
-  <tr><td><b>Languages</b></td><td>Rust · Go · JavaScript · TROIA</td></tr>
+  <tr><td><b>Languages</b></td><td>Rust · Go · JavaScript</td></tr>
   <tr><td><b>Desktop &amp; runtime</b></td><td>Tauri 2 · Node.js</td></tr>
   <tr><td><b>Data &amp; integration</b></td><td>PostgreSQL · SQLite · REST / JSON · SOAP / XML</td></tr>
-  <tr><td><b>Enterprise</b></td><td>Canias ERP</td></tr>
 </table>
 
 <p align="center"><sub>Ankara</sub></p>

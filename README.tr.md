@@ -18,7 +18,7 @@
   <a href="https://github.com/hytztrk-ux/neatly/blob/main/README.tr.md"><img src="assets/card-neatly.svg" alt="neatly: kural tabanlı dosya düzenleyici." width="32%"></a>
 </p>
 
-**[NEXNEXUS](https://nexnexus.com)**'ta mühendisliği yönetiyorum; kurumsal yazılım, özel ERP çözümleri ve
+**[NEXNEXUS](https://nexnexus.com)**'ta mühendisliği yönetiyorum; kendi ERP platformumuz dahil kurumsal yazılım ve
 bunları birbirine bağlayan entegrasyonlar geliştiriyoruz. **[BlackFlagBytes](https://www.blackflagbytes.com)**'ta
 oyun tasarlıyorum. Arada, var olmasını istediğim küçük araçları yazıp burada yayınlıyorum.
 
@@ -41,7 +41,7 @@ modellerini yerelde çalıştıran taşınabilir bir stüdyo.
 
 ### Günlük iş
 
-- **Kurumsal sistemler.** Canias ERP ve TROIA üzerinde ERP mimarisi ve özelleştirme, backend servisleri ve bunları diğer her şeye bağlayan REST ve SOAP entegrasyonları.
+- **Kurumsal sistemler.** Kendi geliştirdiğimiz ERP platformu, backend servisleri ve bunları diğer her şeye bağlayan REST ve SOAP entegrasyonları. Öncesinde yıllarca Canias ERP ve TROIA ile çalıştım.
 - **Çapraz platform ürünler.** Tek kod tabanından masaüstü ve sunucu yazılımı; çoğunlukla Go, Rust, Tauri 2 ve PostgreSQL ile.
 - **Oyun.** BlackFlagBytes'ta tasarım ve araç geliştirme.
 - **Yerel yapay zekâ.** Kendi donanımınızda çalışan modeller ve araçlar.
@@ -51,10 +51,9 @@ Klavye başında değilken: elektro gitar koleksiyonu ve müzik.
 ---
 
 <table>
-  <tr><td><b>Diller</b></td><td>Rust · Go · JavaScript · TROIA</td></tr>
+  <tr><td><b>Diller</b></td><td>Rust · Go · JavaScript</td></tr>
   <tr><td><b>Masaüstü ve çalışma ortamı</b></td><td>Tauri 2 · Node.js</td></tr>
   <tr><td><b>Veri ve entegrasyon</b></td><td>PostgreSQL · SQLite · REST / JSON · SOAP / XML</td></tr>
-  <tr><td><b>Kurumsal</b></td><td>Canias ERP</td></tr>
 </table>
 
 <p align="center"><sub>Ankara</sub></p>
