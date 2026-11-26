@@ -1,15 +1,24 @@
 # Hayati Öztürk
 
-Founder & Software Architect · Kurucu & Yazılım Mimarı
+**Co-Founder & CTO at [NEXNEXUS](https://nexnexus.com) | Game Designer at [BlackFlagBytes](https://www.blackflagbytes.com)**
 
-[English](#english) · [Türkçe](#türkçe) · [Technologies / Teknolojiler](#technologies--teknolojiler)
+Enterprise software, cross-platform tools, and game design.  
+Kurumsal yazılım, çapraz platform araçları ve oyun tasarımı.
+
+[Explore repositories](https://github.com/hytztrk-ux?tab=repositories) · [English](#english) · [Türkçe](#türkçe)
+
+## Featured project / Öne çıkan proje
+
+**[DD:YZ — Sansürsüz Lokal AI Stüdyosu](https://github.com/hytztrk-ux/SansursuzLokalAIStudyosu-DDYZ)**  
+A portable AI studio for local image generation, chat, and speech tools on Windows, Linux, and macOS.  
+Windows, Linux ve macOS’ta yerel çalışan, görsel üretimi, sohbet ve ses araçları sunan taşınabilir bir yapay zekâ stüdyosu.
 
 ## English
 
 ### Ventures & Companies
 
-- **[NEXNEXUS](https://nexnexus.com)** — Founder & Owner. Enterprise software architecture, custom ERP solutions, and high-performance cross-platform systems.
-- **[Black Flag Bytes](https://www.blackflagbytes.com)** — Founder & Owner. Independent game studio and interactive software company.
+- **[NEXNEXUS](https://nexnexus.com)** — Enterprise software architecture, custom ERP solutions, and high-performance cross-platform systems.
+- **[BlackFlagBytes](https://www.blackflagbytes.com)** — Independent game studio and interactive software company.
 
 ### About Me
 
@@ -22,8 +31,8 @@ Founder & Software Architect · Kurucu & Yazılım Mimarı
 
 ### Girişimler & Şirketler
 
-- **[NEXNEXUS](https://nexnexus.com)** — Kurucu & Sahip. Kurumsal yazılım mimarisi, özel ERP çözümleri ve yüksek performanslı çapraz platform (cross-platform) sistemler.
-- **[Black Flag Bytes](https://www.blackflagbytes.com)** — Kurucu & Sahip. Bağımsız oyun stüdyosu ve interaktif yazılım şirketi.
+- **[NEXNEXUS](https://nexnexus.com)** — Kurumsal yazılım mimarisi, özel ERP çözümleri ve yüksek performanslı çapraz platform (cross-platform) sistemler.
+- **[BlackFlagBytes](https://www.blackflagbytes.com)** — Bağımsız oyun stüdyosu ve interaktif yazılım şirketi.
 
 ### Hakkımda
 
